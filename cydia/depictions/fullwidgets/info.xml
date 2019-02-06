@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>albyvar.fullwidgets</bundleId>
     <name>FullWidgets</name>
-    <version>0.0.1-1+debug</version>
+    <version>1.0</version>
     <descriptions>
         <description>
             Widgets always expanded
@@ -19,7 +19,7 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V0.0.1-1+debug</changeVersion>
+            <changeVersion>1.0</changeVersion>
             <changeDescription>Initial release.</changeDescription>
         </change>
     </changelog>
