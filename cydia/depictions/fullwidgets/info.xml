@@ -1,0 +1,26 @@
+<packageInfo>
+    <bundleId>albyvar.fullwidgets</bundleId>
+    <name>FullWidgets</name>
+    <version>0.0.1-1+debug</version>
+    <descriptions>
+        <description>
+            Widgets always expanded
+        </description>
+        <description>
+            Widgets will always be expanded and the "show more" button will be hidden
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>10.0</miniOS>
+        <maxiOS>11.4.1 - Not tested on 12.x</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.1-1+debug</changeVersion>
+            <changeDescription>Initial release.</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
